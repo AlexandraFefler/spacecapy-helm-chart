@@ -1,1 +1,1 @@
-# spacecapy-helm-chart
+# repo for spacecapy helm chart
