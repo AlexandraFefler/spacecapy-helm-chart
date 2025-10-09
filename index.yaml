@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   spacecapybara-chart:
   - apiVersion: v2
-    created: "2025-10-08T12:32:57.696063739Z"
+    created: "2025-10-09T09:37:53.971593904Z"
     description: A Helm chart for deploying the Space Capybara application
-    digest: eba1333102fd1d185c0cca7915a96f57d1293b627d7c83d6eec47c14b1c0f221
+    digest: 4ce162a9eb627661b5ebf76dc1e5cd1bcfde1cb5b995abf5fc8707fd303ffab2
     maintainers:
     - email: sasha.fefler@gmail.com
       name: Alexandra Fefler
@@ -14,7 +14,7 @@ entries:
     - https://AlexandraFefler.github.io/spacecapy-helm-chart/spacecapybara-chart-1.0.45.tgz
     version: 1.0.45
   - apiVersion: v2
-    created: "2025-10-08T12:32:57.695818962Z"
+    created: "2025-10-09T09:37:53.971377559Z"
     description: A Helm chart for deploying the Space Capybara application
     digest: 0dbb66b0596064818859a16097417de99c74d3758f7efe9d88878e40cccda7b2
     maintainers:
@@ -26,7 +26,7 @@ entries:
     - https://AlexandraFefler.github.io/spacecapy-helm-chart/spacecapybara-chart-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v2
-    created: "2025-10-08T12:32:57.695569898Z"
+    created: "2025-10-09T09:37:53.971125487Z"
     description: A Helm chart for deploying the Space Capybara application
     digest: 89080f0169b2ffae12ecdc2ad3f6253a596ddd14567c211eac424ba5f05876ae
     maintainers:
@@ -38,7 +38,7 @@ entries:
     - https://AlexandraFefler.github.io/spacecapy-helm-chart/spacecapybara-chart-1.0.43.tgz
     version: 1.0.43
   - apiVersion: v2
-    created: "2025-10-08T12:32:57.695295236Z"
+    created: "2025-10-09T09:37:53.970834412Z"
     description: A Helm chart for deploying the Space Capybara application
     digest: b343202f058e8fb39ce59bf5e1cef848abb07ff6028fd38b26d2b0457523847f
     maintainers:
@@ -50,7 +50,7 @@ entries:
     - https://AlexandraFefler.github.io/spacecapy-helm-chart/spacecapybara-chart-1.0.42.tgz
     version: 1.0.42
   - apiVersion: v2
-    created: "2025-10-08T12:32:57.695014693Z"
+    created: "2025-10-09T09:37:53.970601316Z"
     description: A Helm chart for deploying the Space Capybara application
     digest: 611ff721a57e50bb1da8fc1886ab0fbb650f114ecd1cd0c6e20645996c8df1aa
     maintainers:
@@ -61,4 +61,4 @@ entries:
     urls:
     - https://AlexandraFefler.github.io/spacecapy-helm-chart/spacecapybara-chart-1.0.41.tgz
     version: 1.0.41
-generated: "2025-10-08T12:32:57.694499251Z"
+generated: "2025-10-09T09:37:53.970195826Z"
